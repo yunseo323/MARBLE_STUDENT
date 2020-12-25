@@ -1,0 +1,88 @@
+﻿  cursor.c
+  game_screen.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\game_screen.c(11,36): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\game_screen.c(34,21): warning C4013: 'SetCurrentCursorPos'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\game_screen.c(128,11): warning C4013: 'titleDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\game_screen.c(125,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\game_screen.c(238,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+  main.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(15,36): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(229,9): warning C4033: 'moveNpc'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(234,11): warning C4013: 'deleteNpc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(277,25): warning C4047: '함수': 'Npc *'의 간접 참조 수준이 'Npc **'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(277,25): warning C4024: 'moveUp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(280,27): warning C4047: '함수': 'Npc *'의 간접 참조 수준이 'Npc **'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(280,27): warning C4024: 'moveDown': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(283,27): warning C4047: '함수': 'Npc *'의 간접 참조 수준이 'Npc **'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(283,27): warning C4024: 'moveLeft': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(286,28): warning C4047: '함수': 'Npc *'의 간접 참조 수준이 'Npc **'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(286,28): warning C4024: 'moveRight': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(297,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(333,9): warning C4033: 'moveLeft'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(336,14): warning C4013: 'DeletePlayer'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(344,9): warning C4033: 'moveRight'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(355,9): warning C4033: 'moveUp'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(366,9): warning C4033: 'moveDown'은(는) 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(497,6): warning C4101: 'blockNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(507,6): warning C4101: 'blockNum' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(516,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(519,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(522,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(525,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(528,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(531,9): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(611,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(647,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(666,11): warning C4013: 'showGauge'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(671,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(711,18): warning C4013: 'randomStageDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(719,11): warning C4013: 'ShowBlock'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(720,8): warning C4013: 'showUi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(725,12): warning C4013: 'printTime'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(734,44): warning C4047: '함수': 'Npc **'의 간접 참조 수준이 'Npc [4][10]'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(734,44): warning C4024: 'playerMove': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(693,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(693,12): warning C4101: 'tm' :참조되지 않은 지역 변수입니다.
+  manual.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(27,39): warning C4133: '함수': 'char [14]'과(와) 'LPCWSTR' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(31,21): warning C4013: 'SetCurrentCursorPos'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(142,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(144,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(146,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(148,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(150,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\manual.c(154,11): warning C4013: 'titleDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  random.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\random.c(33,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  show.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\show.c(7,21): warning C4013: 'SetCurrentCursorPos'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  title.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(40,21): warning C4013: 'SetCurrentCursorPos'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(130,13): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(135,8): warning C4013: 'game'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(143,13): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(157,14): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(181,14): warning C4013: 'manualDraw'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(103,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(218,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(223,11): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\title.c(212,1): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+  ui.c
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\ui.c(139,22): warning C4047: '<': 'char [4]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\ui.c(148,22): warning C4047: '<': 'char [4]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\ui.c(135,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 'localtime' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(267): warning C4716: 'moveNpc': 값을 반환해야 합니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(660): warning C4715: 'onChangeKey': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\12_08_채원\main.c(221): warning C4715: 'npcCollision': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  12_08_채원.vcxproj -> C:\Users\user\Desktop\학교\2020 2학기\SW설계기초\SW설계기초_15조_통합파일\SW_설계기초_15조_코드파일\x64\Debug\12_08_채원.exe

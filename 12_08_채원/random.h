@@ -1,0 +1,1 @@
+void randomStageDraw(char stageModel[100][100], int currentMapSize, int startX, int startY, int startDir, int* currenrStageGauge)
